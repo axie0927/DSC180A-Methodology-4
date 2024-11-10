@@ -1,4 +1,34 @@
-﻿commit 1ecce2b930b23b2e88356412d7db0efd9049a3c7
+﻿commit a6d2af9971a94ef7b450907de4f4aeb30476c427
+Author: Judel Ancayan <judelancayan@gmail.com>
+Date:   Sat Nov 9 16:35:09 2024 -0800
+
+    fixing typos
+
+diff --git a/lec02.ipynb b/lec02.ipynb
+index 2aa057d..f584ed9 100644
+--- a/lec02.ipynb
++++ b/lec02.ipynb
+@@ -392,7 +392,7 @@
+    "metadata": {},
+    "outputs": [],
+    "source": [
+-    "# Exponentation first!\n",
++    "# Exponentiation first!\n",
+     "3 * 4 ** 2"
+    ]
+   },
+
+commit 286fefbd1fb7c9d15e715493bdd8bc653151a11a
+Author: Judel Ancayan <judelancayan@gmail.com>
+Date:   Sat Nov 9 16:33:00 2024 -0800
+
+    fixing log encoding
+
+diff --git a/log.txt b/log.txt
+index ca86b24..1ffe814 100644
+Binary files a/log.txt and b/log.txt differ
+
+commit 1ecce2b930b23b2e88356412d7db0efd9049a3c7
 Author: Judel Ancayan <judelancayan@gmail.com>
 Date:   Sat Nov 9 16:26:16 2024 -0800
 
