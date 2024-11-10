@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Ammie Xie
-axie@ucsd.edu
+Ammie Xie and Judel Ancayan
